@@ -91,7 +91,7 @@ hint13.png
 
 next to `assessment.html`.
 
-## Assessment behavior
+## Assessment behavior (assessment.html)
 
 - Correct answers are stored as SHA-256 hashes in `quiz-data.js`, not
   plain text (see the honesty note above for what this does and doesn't
